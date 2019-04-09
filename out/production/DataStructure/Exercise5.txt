@@ -1,0 +1,14 @@
+1.get the equation into string
+
+2. use for loop so that each characters can be take out from the string
+
+3. if the character is an open parenthesis add into an array
+
+4. ignore any other character except for the closing parenthesis
+
+5. if there is a closing parenthesis add the character into the array
+
+6. take out each character from the array and track the number of open parenthesis and closed parenthesis
+
+7. if the number match then it is valid else
+   the equation is invalid

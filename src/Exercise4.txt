@@ -1,0 +1,23 @@
+a. (5+3)
+    The equation is valid. The answer is 8.
+
+b. (5+3)*8+(2)
+    The equation is valid. Answer is 66.
+
+c. (5+3)*((2+4)*3))
+    The equation is invalid. Extra ')'.
+
+d. (((4)))
+    The equation is valid. THe answer is 4.
+
+e. (1/2)*(2+3)/2
+    The equation is valid. The answer is 0.
+
+f. (2+3)*(8*9)/2)
+    The equation is invalid.
+
+g. ((2+3)*((8*9)/2)
+    The equation is invalid, extra '('.
+
+h. (2+3)*((8*9)/2)
+    The equation is valid. The answer is 180.
